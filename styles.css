@@ -1,0 +1,57 @@
+
+.jersey-15-regular {
+   font-family: "Anta", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.abel-regular {
+  font-family: "Abel", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.heading {
+	font-size: 3.5em;
+}
+.results {
+	font-size: 2.5em;
+}
+body {
+	background: url("restaurant.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+#calculator-background {
+	background-color: rgba(0, 0, 0, 0.7);
+	color: white;
+}
+#input-group1, #input-group2, #input-group3 {
+	border-radius: 20px 0 0 20px;
+	color: white;
+}
+#label1, #label2, #label3 {
+	border-radius: 20px 0 0 20px;
+	background-color: black;
+	color: white;
+}
+#tipOutput {
+	border-radius: 50px;
+	background-color: black;
+	color: white;
+}
+#tipInput {
+	margin-right: 5px;
+}
+#billTotal, #tipAmount, #totalBillWithTip {
+	border-radius: 0 20px 20px 0;
+	background-color: #616361;
+	color: white;
+	font-size: 1.3em;
+}
+#tipInput {
+	margin-left: 20px;
+	
+}
